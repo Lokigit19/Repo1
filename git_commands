@@ -6,6 +6,5 @@ git branch
 git branch <br name>
 git checkout <br name>
 git merge <br name>
-git push branch -d <br name>
-git push branch -D <br name>
 git branch -d <br name>
+
